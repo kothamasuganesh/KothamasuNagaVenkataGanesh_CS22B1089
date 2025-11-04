@@ -130,11 +130,3 @@ sqlite3-binary
 **Name:** Kothamasu Naga Venkata Ganesh  
 **Roll No:** CS22B1089  
 **Project:** Crypto Price Analytics — BTC vs ETH with Kalman Filter  
-**Repository:** [GitHub Repo Link](https://github.com/kothamasuganesh/KothamasuNagaVenkataGanesh_CS22B1089)
-
----
-
-## 🧾 License
-
-This project is developed for academic and research purposes.  
-© 2025 Kothamasu Naga Venkata Ganesh. All rights reserved.
