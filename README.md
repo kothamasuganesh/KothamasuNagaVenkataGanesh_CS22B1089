@@ -62,5 +62,3 @@ See `requirements.txt` for Python packages.
 
 ---
 **Author:** Ganesh  
-**Version:** 1.2 (Stable)  
-**License:** MIT
