@@ -1,0 +1,8 @@
+dash
+plotly
+aiohttp
+pandas
+numpy
+pykalman
+pandas_ta
+sqlite3-binary
